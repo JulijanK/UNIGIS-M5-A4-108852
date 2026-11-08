@@ -1,8 +1,8 @@
-**Grundlagen der Anwendungsentwicklung**
-**Submitted by 108852**
+# Grundlagen der Anwendungsentwicklung
+Submitted by 108852
 
 
-Introduction to Pandas DataFrames – Replicating an article in Markdown
+## Introduction to Pandas DataFrames – Replicating an article in Markdown
 
 Files included: 
 
